@@ -56,7 +56,7 @@ See SKILL.md for detailed troubleshooting guide.
 
 ## License
 
-MIT - Created by moltbot (ven0x-moltbot)
+MIT - Created by Rick Stijnman
 
 ---
 
