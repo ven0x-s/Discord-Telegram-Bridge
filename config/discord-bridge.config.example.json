@@ -1,0 +1,25 @@
+{
+  "discord": {
+    "email": "your-discord-account@example.com",
+    "password": "YOUR_DISCORD_PASSWORD_HERE",
+    "server_name": "Your Server Name",
+    "channel_name": "channel-name-to-monitor"
+  },
+  "telegram": {
+    "chat_id": "YOUR_TELEGRAM_CHAT_ID",
+    "use_markdown": true
+  },
+  "scheduler": {
+    "interval_minutes": 15,
+    "enabled": true
+  },
+  "logging": {
+    "level": "info",
+    "max_log_size_mb": 10,
+    "retain_logs": 5
+  },
+  "retry": {
+    "max_attempts": 3,
+    "backoff_ms": 2000
+  }
+}
