@@ -1,4 +1,4 @@
-# Discord → Telegram Bridge Skill
+# Discord → Telegram Bridge Skill by Rick Stijnman
 
 **Forward new Discord messages from a specific channel to Telegram automatically.**
 
